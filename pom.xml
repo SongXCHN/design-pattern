@@ -14,6 +14,7 @@
         <module>starbuzz</module>
         <module>pizza</module>
         <module>chocolate</module>
+        <module>remote-control</module>
     </modules>
 
 
