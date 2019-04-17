@@ -19,6 +19,7 @@
         <module>theater</module>
         <module>coffee-tea</module>
         <module>menu</module>
+        <module>candy-machine</module>
     </modules>
 
 
